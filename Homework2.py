@@ -1,0 +1,1 @@
+print("This is homework2, made by Daniel Hwang.")
